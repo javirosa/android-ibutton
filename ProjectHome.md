@@ -1,0 +1,1 @@
+Use iButton on Android, by DS2490, based on Android Usb Host API.
